@@ -1,1 +1,94 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>Tith phanith</title>
+  <link rel="icon" href="img/Picture1.png">
+</head>
+<body bgcolor="gray" leftmargin=10 topmargin=50 text="black">  
 
+<table width=100% height=150>
+<td>
+<table width=400 height=300 border=0 align=left>
+<caption>Table 3</caption>
+  <tr>
+    <th bgcolor="white"></th>
+    <th colspan=2 bgcolor="yellow"></th>
+    <th bgcolor="white"></th>
+  </tr>
+  <tr>
+    <th colspan=2 rowspan=2 bgcolor="blue"></th>
+    <th bgcolor="white"></th>
+    <th rowspan=3 bgcolor="blue"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+    <th rowspan=2 bgcolor="blue"></th>
+  </tr>
+  <tr>
+    <th colspan=2 bgcolor="yellow"></th>
+    <th bgcolor="white"></th>
+  </tr>
+  </table>
+  </td>
+  <td>
+<table width=400 height=300 border=0 align=center>
+<caption>Table 2</caption>
+  <tr>
+    <th colspan=4 bgcolor="yellow"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+    <th colspan=2 rowspan=3 bgcolor="blue"></th>
+    <th bgcolor="white"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+  </tr>
+</table>
+</td>
+<td>
+<table width=400 height=300 border=0 align=right>
+<caption>Table 1</caption>
+  <tr>
+    <th colspan=5 bgcolor="yellow"></th>
+  </tr>
+  <tr>
+    <th rowspan=5 bgcolor="blue"></th>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+    <th rowspan=5 bgcolor="blue"></th>
+  </tr>
+  <tr>
+    <th colspan=3 bgcolor="yellow"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+  </tr>
+  <tr>
+    <th colspan=3 bgcolor="yellow"></th>
+  </tr>
+  <tr>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+    <th bgcolor="white"></th>
+  </tr>
+  <tr>
+    <th colspan=5 bgcolor="yellow"></th>
+  </tr>
+  </table>
+  </td>
+  </table>
+</body>
+</html>
